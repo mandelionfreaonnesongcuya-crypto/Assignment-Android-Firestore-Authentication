@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Tree Leaves (Green clusters) -->
+    <path
+        android:fillColor="#43A047"
+        android:pathData="M54,12 a22,22 0 1,0 0.01,0 Z" />
+    <path
+        android:fillColor="#66BB6A"
+        android:pathData="M32,28 a16,16 0 1,0 0.01,0 Z" />
+    <path
+        android:fillColor="#66BB6A"
+        android:pathData="M76,28 a16,16 0 1,0 0.01,0 Z" />
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M54,26 a14,14 0 1,0 0.01,0 Z" />
+
+    <!-- Purple Cross (Center) -->
+    <path
+        android:fillColor="#8E24AA"
+        android:pathData="M48,22 h12 v22 h14 v12 h-14 v28 h-12 v-28 h-14 v-12 h14 z" />
+
+    <!-- Three People (Blue, Orange, Green) -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M24,70 a5,5 0 1,0 0.01,0 Z" />
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M18,78 L30,78 L30,94 L18,94 Z" />
+
+    <path
+        android:fillColor="#FB8C00"
+        android:pathData="M54,72 a5,5 0 1,0 0.01,0 Z" />
+    <path
+        android:fillColor="#FB8C00"
+        android:pathData="M48,80 L60,80 L60,96 L48,96 Z" />
+
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M84,70 a5,5 0 1,0 0.01,0 Z" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M78,78 L90,78 L90,94 L78,94 Z" />
+</vector>

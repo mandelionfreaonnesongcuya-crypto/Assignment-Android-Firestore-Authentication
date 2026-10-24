@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715568943301",
+    "project_id": "naturespring",
+    "storage_bucket": "naturespring.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715568943301:android:3ec50c28c42ad5b42820ac",
+        "android_client_info": {
+          "package_name": "com.example.naturespring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByiqxzOCo3-fPyzO03yiaB1rj7Wi3ib6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

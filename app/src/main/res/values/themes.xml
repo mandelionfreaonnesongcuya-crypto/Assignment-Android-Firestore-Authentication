@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.NatureSpring" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/nature_green</item>
+        <item name="android:windowBackground">@color/nature_bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
